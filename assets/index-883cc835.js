@@ -1,0 +1,1 @@
+import{_ as n,a as r,o as c,c as o,b as t,F as a}from"./index-d7d42342.js";const s={};function m(_,i){const e=r("m-progress");return c(),o(a,null,[t(e,{percentage:100,time:3e3,indeterminate:""}),t(e,{type:"circle",percentage:100,time:3e3,indeterminate:""})],64)}const l=n(s,[["render",m]]);export{l as default};
